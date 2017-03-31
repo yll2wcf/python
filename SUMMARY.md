@@ -7,4 +7,5 @@
   * [输入输出](chapter1/shu-ru-shu-chu.md)
 * [python基础](pythonji-chu.md)
   * [python数据类型](pythonji-chu/pythonshu-ju-lei-xing.md)
+  * [python编码](pythonji-chu/pythonbian-ma.md)
 
