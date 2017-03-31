@@ -8,4 +8,5 @@
 * [python基础](pythonji-chu.md)
   * [python数据类型](pythonji-chu/pythonshu-ju-lei-xing.md)
   * [python编码](pythonji-chu/pythonbian-ma.md)
+  * [list](pythonji-chu/list.md)
 
