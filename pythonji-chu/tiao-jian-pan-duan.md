@@ -44,7 +44,7 @@ if x:
 
 ###条件判断的问题
 最后看一个有问题的条件判断。很多同学会用input()读取用户的输入，这样可以自己输入，程序运行得更有意思：
-```
+```py
 birth = input('birth: ')
 if birth < 2000:
     print('00前')
@@ -52,7 +52,7 @@ else:
     print('00后')
 ```
 上面代码执行后，输入数字会报错， 因为input输入的都是字符串,需要通过`int()`函数转换成整数
-```
+```py
 s = input('birth: ')
 birth = int(s)
 if birth < 2000:
