@@ -15,4 +15,5 @@
   * [dict](pythonji-chu/dict.md)
   * [set](pythonji-chu/set.md)
 * [python函数](pythonhan-shu.md)
+  * [定义函数](pythonhan-shu/ding-yi-han-shu.md)
 
