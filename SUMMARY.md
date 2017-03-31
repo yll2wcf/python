@@ -14,4 +14,5 @@
   * [循环](pythonji-chu/xun-huan.md)
   * [dict](pythonji-chu/dict.md)
   * [set](pythonji-chu/set.md)
+* [python函数](pythonhan-shu.md)
 
