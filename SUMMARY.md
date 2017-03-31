@@ -11,4 +11,5 @@
   * [list](pythonji-chu/list.md)
   * [tuple](pythonji-chu/tuple.md)
   * [条件判断](pythonji-chu/tiao-jian-pan-duan.md)
+  * [循环](pythonji-chu/xun-huan.md)
 
