@@ -18,4 +18,5 @@
   * [定义函数](pythonhan-shu/ding-yi-han-shu.md)
   * [默认参数](pythonhan-shu/mo-ren-can-shu.md)
   * [可变参数](pythonhan-shu/ke-bian-can-shu.md)
+  * [关键字参数](pythonhan-shu/guan-jian-zi-can-shu.md)
 
