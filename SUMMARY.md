@@ -16,4 +16,6 @@
   * [set](pythonji-chu/set.md)
 * [python函数](pythonhan-shu.md)
   * [定义函数](pythonhan-shu/ding-yi-han-shu.md)
+  * [默认参数](pythonhan-shu/mo-ren-can-shu.md)
+  * [可变参数](pythonhan-shu/ke-bian-can-shu.md)
 
