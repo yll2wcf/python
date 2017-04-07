@@ -19,4 +19,6 @@
   * [默认参数](pythonhan-shu/mo-ren-can-shu.md)
   * [可变参数](pythonhan-shu/ke-bian-can-shu.md)
   * [关键字参数](pythonhan-shu/guan-jian-zi-can-shu.md)
+  * [参数组合](pythonhan-shu/can-shu-zu-he.md)
+* 高级特性
 
