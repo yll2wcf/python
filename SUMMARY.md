@@ -22,4 +22,5 @@
   * [参数组合](pythonhan-shu/can-shu-zu-he.md)
 * [高级特性](gao-ji-te-xing.md)
   * [切片](gao-ji-te-xing/qie-pian.md)
+  * [迭代](gao-ji-te-xing/die-dai.md)
 
