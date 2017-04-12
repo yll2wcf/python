@@ -36,4 +36,5 @@ reduce(f, [x1, x2, x3, x4]) = f(f(f(x1, x2), x3), x4)
 ...
 >>> reduce(fn, map(char2num, '13579'))
 13579
+
 ```
