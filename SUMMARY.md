@@ -27,4 +27,5 @@
   * [生成器](gao-ji-te-xing/sheng-cheng-qi.md)
   * [迭代器](gao-ji-te-xing/die-dai-qi.md)
 * [高阶函数](han-shu-shi-bian-cheng.md)
+  * [map/reduce](han-shu-shi-bian-cheng/mapreduce.md)
 
