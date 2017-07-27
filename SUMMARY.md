@@ -29,5 +29,5 @@
 * [高阶函数](han-shu-shi-bian-cheng.md)
   * [map/reduce](han-shu-shi-bian-cheng/mapreduce.md)
   * [filter](han-shu-shi-bian-cheng/filter.md)
-  * [待续](dai-xu.md)
+  * [sorted](dai-xu.md)
 

@@ -133,4 +133,4 @@ for t in triangle():
         break;
 
 ```
-是python，-1表示最后一个
+python，-1表示最后一个
