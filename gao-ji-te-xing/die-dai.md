@@ -1,6 +1,6 @@
 #迭代
 
-Python的for循环要比java中的强大许多
+Python的for循环要比Java中的强大许多
 
 只要是可迭代对象，无论有无下标，都可以迭代，比如dict就可以迭代：
 ```py
