@@ -31,4 +31,5 @@
   * [filter](han-shu-shi-bian-cheng/filter.md)
   * [sorted](dai-xu.md)
 * [函数式编程](han-shu-shi-bian-cheng.md)
+  * [返回函数](han-shu-shi-bian-cheng/fan-hui-han-shu.md)
 
