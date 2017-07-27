@@ -26,8 +26,9 @@
   * [列表生成式](gao-ji-te-xing/lie-biao-sheng-cheng-shi.md)
   * [生成器](gao-ji-te-xing/sheng-cheng-qi.md)
   * [迭代器](gao-ji-te-xing/die-dai-qi.md)
-* [高阶函数](han-shu-shi-bian-cheng.md)
+* [高阶函数](gaojiehanshu.md)
   * [map/reduce](han-shu-shi-bian-cheng/mapreduce.md)
   * [filter](han-shu-shi-bian-cheng/filter.md)
   * [sorted](dai-xu.md)
+* [函数式编程](han-shu-shi-bian-cheng.md)
 
