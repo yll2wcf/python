@@ -32,4 +32,6 @@
   * [sorted](dai-xu.md)
 * [函数式编程](han-shu-shi-bian-cheng.md)
   * [返回函数](han-shu-shi-bian-cheng/fan-hui-han-shu.md)
+  * [闭包](han-shu-shi-bian-cheng/bi-bao.md)
+  * [匿名函数lambda](han-shu-shi-bian-cheng/ni-ming-han-shu-lambda.md)
 
