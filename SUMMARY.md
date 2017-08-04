@@ -35,4 +35,5 @@
   * [闭包](han-shu-shi-bian-cheng/bi-bao.md)
   * [匿名函数lambda](han-shu-shi-bian-cheng/ni-ming-han-shu-lambda.md)
   * [装饰器](han-shu-shi-bian-cheng/zhuang-shi-qi.md)
+  * [偏函数](han-shu-shi-bian-cheng/pian-han-shu.md)
 
