@@ -70,3 +70,18 @@ def now():
 ```py
  now = log('execute')(now)
 ```
+
+装饰器会改变 函数`__name__`属性
+Python内置的`functools.wraps` 可以解决这个问题，只需记住在定义`wrapper()`的前面加上`@functools.wraps(func)`即可。
+```py
+import functools
+
+def log(text):
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kw):
+            print('%s %s():' % (text, func.__name__))
+            return func(*args, **kw)
+        return wrapper
+    return decorator
+```
