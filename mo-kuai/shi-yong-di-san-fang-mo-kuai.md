@@ -13,3 +13,6 @@ pip3 install Pillow
 常用的第三方库
 
 https://github.com/vinta/awesome-python
+
+
+所有的第三方模块都会在[PyPI - the Python Package Index](https://pypi.python.org/pypi)上注册
