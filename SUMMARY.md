@@ -39,4 +39,5 @@
 * [模块](mo-kuai.md)
   * [使用模块](mo-kuai/shi-yong-mo-kuai.md)
   * [使用第三方模块](mo-kuai/shi-yong-di-san-fang-mo-kuai.md)
+  * [Pillow模块使用](mo-kuai/pillowmo-kuai-shi-yong.md)
 
