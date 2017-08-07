@@ -38,4 +38,5 @@
   * [偏函数](han-shu-shi-bian-cheng/pian-han-shu.md)
 * [模块](mo-kuai.md)
   * [使用模块](mo-kuai/shi-yong-mo-kuai.md)
+  * [使用第三方模块](mo-kuai/shi-yong-di-san-fang-mo-kuai.md)
 
