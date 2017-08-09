@@ -41,4 +41,6 @@
   * [使用第三方模块](mo-kuai/shi-yong-di-san-fang-mo-kuai.md)
   * [Pillow模块使用](mo-kuai/pillowmo-kuai-shi-yong.md)
 * [内置模块介绍](nei-zhi-mo-kuai-jie-shao.md)
+  * [datetime](nei-zhi-mo-kuai-jie-shao/datetime.md)
+  * collections
 
