@@ -42,5 +42,5 @@
   * [Pillow模块使用](mo-kuai/pillowmo-kuai-shi-yong.md)
 * [内置模块介绍](nei-zhi-mo-kuai-jie-shao.md)
   * [datetime](nei-zhi-mo-kuai-jie-shao/datetime.md)
-  * collections
+  * [collections](nei-zhi-mo-kuai-jie-shao/collections.md)
 
