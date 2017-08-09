@@ -8,7 +8,7 @@
 
 获取当前日期和时间：
 
-```
+```py
 >>> from datetime import datetime
 >>> now = datetime.now() # 获取当前datetime
 >>> print(now)
@@ -27,4 +27,5 @@ dt = datetime(2015, 4, 19, 12, 20) # 用指定日期时间创建datetime
 dt.timestamp() # 把datetime转换为timestamp 
 ```
 结果  1429417200.0
-Python的timestamp是一个浮点数。如果有小数位，小数位表示毫秒数。Java／JS 中的结果是毫秒数
+Python的`timestamp`是一个浮点数。如果有小数位，小数位表示毫秒数。Java／JS 中的结果是毫秒数
+
