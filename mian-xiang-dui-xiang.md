@@ -37,3 +37,15 @@ class Student(object):
     def print_score(self):
         print('%s: %s' % (self.__name, self.__score))
 ```
+
+## 方法
+
+`isinstance()`  判断类型
+```py
+isinstance('a', str) # true
+```
+
+如果要获得一个对象的所有属性和方法，可以使用`dir()`函数
+```py
+getattr()、setattr()以及hasattr()  操作对象属性
+```
