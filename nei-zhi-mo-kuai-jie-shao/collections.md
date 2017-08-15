@@ -26,3 +26,12 @@ Circle = namedtuple('Circle', ['x', 'y', 'r'])
 ###deque
 
 deque是为了高效实现插入和删除操作的双向列表，适合用于队列和栈：
+```py
+from collections import deque
+
+q = deque(['a', 'b', 'c'])
+q.append('x')
+q.appendleft('y')
+print(q)  # deque(['y', 'a', 'b', 'c', 'x'])
+```
+`deque`除了实现`list`的`append()`和`pop()`外，还支持`appendleft()`和`popleft()`, 增删元素要比    `list`快
