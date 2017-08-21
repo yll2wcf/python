@@ -49,3 +49,12 @@ isinstance('a', str) # true
 ```py
 getattr()、setattr()以及hasattr()  操作对象属性
 ```
+
+
+## 绑定实例方法
+
+通过
+```
+from types import MethodType
+s.set_age = MethodType(set_age, s) # 给实例绑定一个方法，其中 s 是一个实例
+```

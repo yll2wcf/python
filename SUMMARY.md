@@ -45,4 +45,10 @@
   * [collections](nei-zhi-mo-kuai-jie-shao/collections.md)
   * [HTMLParser和urllib](nei-zhi-mo-kuai-jie-shao/htmlparserhe-urllib.md)
 * [面向对象](mian-xiang-dui-xiang.md)
+* [面向对象高级编程](mian-xiang-dui-xiang-gao-ji-bian-cheng.md)
+  * [使用\_\_slots\_\_](mian-xiang-dui-xiang-gao-ji-bian-cheng/shi-yong-slots.md)
+  * [使用@property](mian-xiang-dui-xiang-gao-ji-bian-cheng/shi-7528-property.md)
+  * [多重继承](mian-xiang-dui-xiang-gao-ji-bian-cheng/duo-zhong-ji-cheng.md)
+  * [定制类](mian-xiang-dui-xiang-gao-ji-bian-cheng/ding-zhi-lei.md)
+  * 使用枚举类
 
