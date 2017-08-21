@@ -25,3 +25,5 @@ class Weekday(Enum):
     
 ```
 `@unique`装饰器可以帮助我们检查保证没有重复值。
+
+

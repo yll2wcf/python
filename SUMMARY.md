@@ -51,4 +51,7 @@
   * [多重继承](mian-xiang-dui-xiang-gao-ji-bian-cheng/duo-zhong-ji-cheng.md)
   * [定制类](mian-xiang-dui-xiang-gao-ji-bian-cheng/ding-zhi-lei.md)
   * [使用枚举类](mian-xiang-dui-xiang-gao-ji-bian-cheng/shi-yong-mei-ju-lei.md)
+* [调试](diao-shi.md)
+  * [错误处理](diao-shi/cuo-wu-chu-li.md)
+  * [断言](diao-shi/duan-yan.md)
 
