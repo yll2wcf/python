@@ -50,5 +50,5 @@
   * [使用@property](mian-xiang-dui-xiang-gao-ji-bian-cheng/shi-7528-property.md)
   * [多重继承](mian-xiang-dui-xiang-gao-ji-bian-cheng/duo-zhong-ji-cheng.md)
   * [定制类](mian-xiang-dui-xiang-gao-ji-bian-cheng/ding-zhi-lei.md)
-  * 使用枚举类
+  * [使用枚举类](mian-xiang-dui-xiang-gao-ji-bian-cheng/shi-yong-mei-ju-lei.md)
 
