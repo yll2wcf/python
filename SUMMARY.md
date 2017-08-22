@@ -56,4 +56,6 @@
   * [断言](diao-shi/duan-yan.md)
 * [IO编程](iobian-cheng.md)
   * [文件读写](iobian-cheng/wen-jian-du-xie.md)
+  * [StringIO和BytesIO](iobian-cheng/stringiohe-bytesio.md)
+  * [操作系统文件和目录](iobian-cheng/cao-zuo-xi-tong-wen-jian-he-mu-lu.md)
 
