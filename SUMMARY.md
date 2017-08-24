@@ -67,4 +67,5 @@
 * [数据库](shu-ju-ku.md)
   * [安装](an-zhuang.md)
   * [使用](shi-yong.md)
+  * [SQLAlchemy ORM](sqlalchemy-orm.md)
 
