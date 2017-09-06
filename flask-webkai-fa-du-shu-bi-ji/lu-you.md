@@ -26,3 +26,5 @@ if __name__ == '__main__':
 flask-bootstrap  
 Flask-Moment本地化日期和时间
 Flask-Moment 是一个 Flask 程序扩展，能把 moment.js 集成到 Jinja2 模板中。
+
+http://momentjs.com/
