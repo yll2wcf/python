@@ -44,4 +44,8 @@ class Role(db.Model):
 ```py
 >>> str(User.query.filter_by(role=user_role))'SELECT users.id AS users_id, users.username AS users_username, users.role_id AS users_role_id FROM users WHERE :param_1 = users.role_id'
 ```
+![](/assets/1504773100230.jpg)
+
+
+
 
