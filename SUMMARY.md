@@ -71,6 +71,7 @@
 * [Web开发](webkai-fa.md)
   * [使用模版](webkai-fa/shi-yong-mo-ban.md)
 * [Flask Web开发读书笔记](flask-webkai-fa-du-shu-bi-ji.md)
+  * [虚拟环境命令](flask-webkai-fa-du-shu-bi-ji/xu-ni-huan-jing-ming-ling.md)
   * [路由](flask-webkai-fa-du-shu-bi-ji/lu-you.md)
   * [Web表单](flask-webkai-fa-du-shu-bi-ji/webbiao-dan.md)
   * [数据库](flask-webkai-fa-du-shu-bi-ji/shu-ju-ku.md)
