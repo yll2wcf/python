@@ -11,3 +11,9 @@ def test():
     unittest.TextTestRunner(verbosity=2).run(tests)
 
 ```
+
+运行单元脚本
+
+```py
+>>> python manage.py test
+```
