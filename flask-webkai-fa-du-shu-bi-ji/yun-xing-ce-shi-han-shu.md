@@ -17,3 +17,8 @@ def test():
 ```py
 >>> python manage.py test
 ```
+
+
+ Python 包可用于生成虚拟信息，其中功能相对完善的是 ForgeryPy  参考书中 11.3.1
+ 
+ 
