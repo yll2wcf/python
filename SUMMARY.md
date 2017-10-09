@@ -76,6 +76,7 @@
   * [Web表单](flask-webkai-fa-du-shu-bi-ji/webbiao-dan.md)
   * [数据库](flask-webkai-fa-du-shu-bi-ji/shu-ju-ku.md)
   * [运行测试函数](flask-webkai-fa-du-shu-bi-ji/yun-xing-ce-shi-han-shu.md)
+  * [导出依赖文件](flask-webkai-fa-du-shu-bi-ji/dao-chu-yi-lai-wen-jian.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [解决5000端口被占的问题](chang-jian-wen-ti/jie-jue-5000-duan-kou-bei-zhan-de-wen-ti.md)
 
