@@ -49,3 +49,25 @@ class Role(db.Model):
 
 
 
+#数据库迁移
+
+```
+(venv) $ pip install flask-migrate
+```
+配置 Flask-Migrate
+
+```py 
+from flask.ext.migrate import Migrate, MigrateCommand 
+ ...     
+migrate = Migrate(app, db)     
+manager.add_command('db', MigrateCommand)
+```
+初始化
+```
+python manager.py db init
+```
+创建脚本语句
+```
+python manager.py db migrate -m "initial migration"
+```
+
