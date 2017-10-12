@@ -70,4 +70,8 @@ python manager.py db init
 ```
 python manager.py db migrate -m "initial migration"
 ```
+更新数据库
+```
+python manager.py db upgrade
+```
 
